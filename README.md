@@ -67,7 +67,6 @@ The dataset contains **23 categorical features**, which were one-hot encoded, cr
 - PCA handled **feature collinearity** and redundancy effectively, offering computational efficiency.  
 - Trade-off observed: PCA introduces minor **information loss**, but reduces **variance** and model complexity.  
 
----
 
 ## 📈 Visualizations
 
